@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\environment2"
+		},
+		{
+			"path": "..\\ddsgateway"
+		}
+	],
+	"settings": {}
+}
